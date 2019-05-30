@@ -32,9 +32,11 @@ def iter_kmeas()  # 执行此函数用于分步演示K-Means
 旧金山犯罪数据(放大了)
 
 ![criminal_kmeans](https://github.com/50Death/Visual-BigData-Algorithm/blob/master/screenshots/criminal_kmeans.jpg)
+
 演示K-Means
 
 ![slim_kmeans](https://github.com/50Death/Visual-BigData-Algorithm/blob/master/screenshots/slim_kmeans.png)
+
 分步演示GIF
 
 ![iter_kmeas](https://github.com/50Death/Visual-BigData-Algorithm/blob/master/screenshots/iter_kmeans.gif)
