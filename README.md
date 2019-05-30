@@ -1,8 +1,6 @@
 # Visual BigData Algorithm
 # 大数据算法实践和可视化
 
-[English Version](...)
-
 ---
 # 算法
 ### K-Means
